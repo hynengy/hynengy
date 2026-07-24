@@ -1,86 +1,188 @@
 ## 👩‍💻 Hi there 👋, I'm Meo (hynengy)
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cute Coding Girl" width="300" align="right"/>
-
----
-
-### 🌟 Overview & Aspirations
-
-<p align="left">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding Girl GIF" width="300" align="right"/>
-  Welcome to my digital space! I'm Meo, a passionate and dedicated Information Technology student at the <b>Hanoi University of Architecture (HAU)</b>, proud to be part of <b>Cohort K23</b>. 
-  <br><br>
-  My academic and personal projects reflect a deep enthusiasm for software development—turning complex logical challenges into seamless, elegant digital experiences that harmoniously combine robust backend performance with refined user interfaces.
-</p>
-<br>
-<br>
-<p align="left">
-  Currently, my focus is heavily invested in:
-  <ul>
-    <li>🚀 <b>Full-Stack Development:</b> Building scalable web applications using modern MERN and .NET stacks.</li>
-    <li>🧠 <b>Machine Learning & AI:</b> Exploring the frontiers of deep learning, particularly for computer vision applications.</li>
-    <li>🎨 <b>3D Computer Graphics:</b> Integrating 3D modeling and rendering techniques into interactive web experiences.</li>
-  </ul>
-</p>
-<br>
-
----
-
-### 🚀 Featured Projects Showcase
-
-Here are some of my key repositories that highlight my practical application of skills and diverse technology stacks:
-
-| Repository | Key Technologies | Brief Description |
-| :--- | :--- | :--- |
-| **[DDPM](https://github.com/hynengy/DDPM)** | Python, Deep Learning | A dive into generative modeling with Diffusion Probabilistic Models, focusing on model architecture and training from scratch. |
-| **[CafeManagementSystem](https://github.com/hynengy/CafeManagementSystem)** | Java, MVC | A structured desktop application built with meticulous attention to object-oriented principles and clear architectural separation. |
-| **[QuizExamSystem](https://github.com/hynengy/QuizExamSystem)** | C#, SQL Server | An online examination platform for students and administrators, featuring a secure backend and dynamic testing interfaces. |
-| **[Maison-queen](https://github.com/hynengy/Maison-queen)** | JavaScript, Node.js | An e-commerce web application designed specifically for a jewelry store, with a focus on smooth user flows and secure transactions. |
-| **[Arume-project](https://github.com/hynengy/Arume-project)** | JavaScript, React | A dynamic web interface project emphasizing modern UI/UX design principles and responsive client-side rendering. |
-| **[Buildwise-ai](https://github.com/hynengy/Buildwise-ai)** | Python, AI | An integration of AI capabilities into a larger system, leveraging Python's rich ecosystem for automation and intelligent decision-making. |
-
----
-
-### 🛠️ Technical Proficiency & Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-* **Programming Languages:** C#, Python, Java, JavaScript, TypeScript, Node.js, C++
-* **Databases & Architectures:** SQL Server, MySQL, MongoDB, MVC Design Pattern, Relational Database Management
-* **Tools & Environments:** Linux, Git & GitHub, Docker, VS Code, Figma, Blender, XAMPP
-
----
-
-### 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hynengy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="hynengy stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Architecture+Engineering+%26+Construction+(AEC);Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynengy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+![](https://komarev.com/ghpvc/?username=hynengy&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
+<a href="https://github.com/hynengy">
+<img src="https://img.shields.io/github/followers/hynengy?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/hynengy">
+<img src="https://img.shields.io/github/stars/hynengy?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
 </p>
+
 ---
 
-### 📫 Connect & Collaborate
+<img align="right" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 💼 **Seeking Opportunities:** I am actively looking for internships or junior software engineering roles.
-- 🎯 **Collaboration Ready:** I's excited to collaborate on innovative software engineering projects and open-source contributions.
+## 👩‍💻 About Me
+
+🎓 Information Technology Student at **Hanoi University of Architecture (HAU)**
+
+🏫 Faculty of Information Technology • **K23**
+
+💡 Passionate about building intelligent software that combines **AI**, **Full-Stack Development**, and modern software architecture.
+
+Currently I'm focusing on:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Web Development
+- 🏗️ AI for Architecture, Engineering & Construction (AEC)
+- ☁️ Cloud & Backend Engineering
+- 📱 Clean UI/UX & Modern Web Technologies
+
+I enjoy transforming ideas into real-world applications that solve practical problems through scalable software solutions.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **BuildWise AI** | AI platform for the construction industry with intelligent document analysis, BOQ processing, OCR and engineering assistant. | FastAPI • Python • AI • PostgreSQL |
+| **DDPM** | Research implementation of Diffusion Probabilistic Models for image generation and medical imaging. | Python • PyTorch |
+| **Quiz Exam System** | Online examination platform with role management, authentication and automated grading. | C# • SQL Server |
+| **Maison Queen** | Jewelry E-commerce platform with complete shopping workflow and administration dashboard. | React • Node.js • MongoDB |
+| **Cafe Management System** | Desktop management software following MVC architecture and OOP principles. | Java • Swing |
+| **Arume Project** | Modern responsive website focusing on UI/UX and component-based development. | React • JavaScript |
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,fastapi,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,blender"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGsziYS21aU/giphy.gif" alt="Waving GIF" width="150"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hynengy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynengy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hynengy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hynengy&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hynengy&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building **BuildWise AI**
+- 🤖 Learning Large Language Models (LLMs)
+- 🧠 Computer Vision
+- 🏗️ AI Applications in Construction Industry
+- ☁️ FastAPI + Docker + PostgreSQL
+- 📚 Software Architecture & System Design
+
+---
+
+# 🌱 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- LangChain & LangGraph
+- PyTorch
+- Kubernetes
+- Microservices
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/hynengy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Code is not just about making computers work — it's about creating solutions that make people's lives better."*
+
+⭐ If you like my projects, consider giving them a star!
+
 </p>
