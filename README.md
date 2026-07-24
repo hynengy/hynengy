@@ -142,7 +142,7 @@ My primary goal is to build software that solves real-world problems by combinin
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/hynengy/]">
+<a href="https://www.linkedin.com/in/hynengy">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
