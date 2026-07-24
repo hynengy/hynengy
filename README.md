@@ -1,165 +1,136 @@
-## 👩‍💻 Hi there 👋, I'm Meo (hynengy)
+<h1 align="center">Hi 👋, I'm Meo (hynengy)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Architecture+Engineering+%26+Construction+(AEC);Always+Learning+Something+New" />
+  <a href="https://github.com/hynengy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+AI-powered+Applications;Architecture+Engineering+%26+Construction+(AEC)" />
+  </a>
 </p>
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=hynengy&label=Profile+Views&color=blueviolet&style=for-the-badge)
-
-<a href="https://github.com/hynengy">
-<img src="https://img.shields.io/github/followers/hynengy?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/hynengy">
-<img src="https://img.shields.io/github/stars/hynengy?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=hynengy&label=Profile+Views&style=for-the-badge&color=7F52FF"/>
+  <img src="https://img.shields.io/github/followers/hynengy?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/hynengy?style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 Information Technology Student at **Hanoi University of Architecture (HAU)**
+I'm an **Information Technology student** at **Hanoi University of Architecture (HAU)** with a strong interest in **Artificial Intelligence**, **Full-Stack Development**, and **Software Engineering**.
 
-🏫 Faculty of Information Technology • **K23**
+My primary goal is to build software that solves real-world problems by combining intelligent algorithms with scalable system architecture.
 
-💡 Passionate about building intelligent software that combines **AI**, **Full-Stack Development**, and modern software architecture.
+### Current Interests
 
-Currently I'm focusing on:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Web Development
-- 🏗️ AI for Architecture, Engineering & Construction (AEC)
-- ☁️ Cloud & Backend Engineering
-- 📱 Clean UI/UX & Modern Web Technologies
-
-I enjoy transforming ideas into real-world applications that solve practical problems through scalable software solutions.
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development
+- AI for Architecture, Engineering & Construction (AEC)
+- Backend Engineering
+- Cloud-native Applications
+- System Design
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **BuildWise AI** | AI platform for the construction industry with intelligent document analysis, BOQ processing, OCR and engineering assistant. | FastAPI • Python • AI • PostgreSQL |
-| **DDPM** | Research implementation of Diffusion Probabilistic Models for image generation and medical imaging. | Python • PyTorch |
-| **Quiz Exam System** | Online examination platform with role management, authentication and automated grading. | C# • SQL Server |
-| **Maison Queen** | Jewelry E-commerce platform with complete shopping workflow and administration dashboard. | React • Node.js • MongoDB |
-| **Cafe Management System** | Desktop management software following MVC architecture and OOP principles. | Java • Swing |
-| **Arume Project** | Modern responsive website focusing on UI/UX and component-based development. | React • JavaScript |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **[BuildWise AI](https://github.com/hynengy/Buildwise-ai)** | AI platform for the AEC industry featuring OCR, BOQ analysis, document understanding, and intelligent engineering assistants. | FastAPI · PostgreSQL · Python · AI |
+| **[DDPM](https://github.com/hynengy/DDPM)** | Research implementation of Denoising Diffusion Probabilistic Models for image generation and medical imaging. | Python · PyTorch |
+| **[Quiz Exam System](https://github.com/hynengy/QuizExamSystem)** | Web-based examination management system with authentication, role-based authorization and automated grading. | C# · SQL Server |
+| **[Maison Queen](https://github.com/hynengy/Maison-queen)** | Full-stack e-commerce platform for jewelry retail with shopping cart, payment workflow and administration dashboard. | React · Node.js · MongoDB |
+| **[Cafe Management System](https://github.com/hynengy/CafeManagementSystem)** | Desktop management application designed with MVC architecture and object-oriented programming principles. | Java · Swing |
+| **[Arume Project](https://github.com/hynengy/Arume-project)** | Responsive React application focusing on reusable components and modern UI/UX practices. | React · JavaScript |
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts"/>
-
 </p>
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,fastapi,express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi"/>
 </p>
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-### Tools
+### DevOps & Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,blender"/>
-
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hynengy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynengy&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hynengy&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hynengy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=hynengy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hynengy&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🎯 Current Focus
+# Currently Working On
 
-- 🚀 Building **BuildWise AI**
-- 🤖 Learning Large Language Models (LLMs)
+- 🤖 AI-powered applications for the AEC industry
 - 🧠 Computer Vision
-- 🏗️ AI Applications in Construction Industry
-- ☁️ FastAPI + Docker + PostgreSQL
-- 📚 Software Architecture & System Design
+- 🚀 FastAPI & PostgreSQL
+- 🐳 Docker-based deployment
+- ☁️ Modern backend architecture
 
 ---
 
-# 🌱 Currently Learning
+# Learning
 
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Agentic AI
 - LangChain & LangGraph
-- PyTorch
 - Kubernetes
 - Microservices
+- Software Architecture
 
 ---
 
-# 📫 Let's Connect
+# Connect with Me
 
 <p align="center">
 
@@ -167,11 +138,11 @@ I enjoy transforming ideas into real-world applications that solve practical pro
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="nguyenthuyhien22092005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://www.linkedin.com/in/hynengy/]">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -180,9 +151,7 @@ I enjoy transforming ideas into real-world applications that solve practical pro
 ---
 
 <p align="center">
+<i>"Building software that creates real-world impact."</i>
 
-> *"Code is not just about making computers work — it's about creating solutions that make people's lives better."*
-
-⭐ If you like my projects, consider giving them a star!
-
+⭐ Feel free to explore my repositories and leave a star if you find them useful.
 </p>
