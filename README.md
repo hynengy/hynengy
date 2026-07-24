@@ -138,7 +138,7 @@ My primary goal is to build software that solves real-world problems by combinin
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="nguyenthuyhien22092005@gmail.com">
+<a href="hynengy@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
