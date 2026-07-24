@@ -1,18 +1,18 @@
-## 👨‍💻 Hi there 👋, I'm Meo (hynengy)
+## 👩‍💻 Hi there 👋, I'm Meo (hynengy)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hynengy&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="hynengy" />
-</p>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cute Coding Girl" width="300" align="right"/>
 
 ---
 
 ### 🌟 Overview & Aspirations
 
 <p align="left">
-  <img src="https://media.giphy.com/media/26gJ1pT0Pj6N3fKk8/giphy.gif" alt="Coding GIF" width="300" align="right"/>
-  I am an enthusiastic and driven Information Technology student at the <b>Hanoi University of Architecture (HAU)</b>, belonging to <b>Cohort K23</b>. My academic journey has ignited a passion for crafting sophisticated software solutions that bridge the gap between robust backend architecture and intuitive user interfaces.
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding Girl GIF" width="300" align="right"/>
+  Welcome to my digital space! I'm Meo, a passionate and dedicated Information Technology student at the <b>Hanoi University of Architecture (HAU)</b>, proud to be part of <b>Cohort K23</b>. 
+  <br><br>
+  My academic and personal projects reflect a deep enthusiasm for software development—turning complex logical challenges into seamless, elegant digital experiences that harmoniously combine robust backend performance with refined user interfaces.
 </p>
-
+<br>
 <br>
 <p align="left">
   Currently, my focus is heavily invested in:
