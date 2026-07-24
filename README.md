@@ -10,7 +10,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/26gJ1pT0Pj6N3fKk8/giphy.gif" alt="Coding GIF" width="300" align="right"/>
-  I am an enthusiastic and driven Information Technology student at the <b>Hanoi University of Architecture (HAU)</b>, belonging to <b>Cohort K21</b>. My academic journey has ignited a passion for crafting sophisticated software solutions that bridge the gap between robust backend architecture and intuitive user interfaces.
+  I am an enthusiastic and driven Information Technology student at the <b>Hanoi University of Architecture (HAU)</b>, belonging to <b>Cohort K23</b>. My academic journey has ignited a passion for crafting sophisticated software solutions that bridge the gap between robust backend architecture and intuitive user interfaces.
 </p>
 
 <br>
@@ -61,14 +61,7 @@ Here are some of my key repositories that highlight my practical application of 
 
 * **Programming Languages:** C#, Python, Java, JavaScript, TypeScript, Node.js, C++
 * **Databases & Architectures:** SQL Server, MySQL, MongoDB, MVC Design Pattern, Relational Database Management
-* **Tools & Environments:** Linux (Ubuntu terminal), Git & GitHub, Docker, VS Code, Figma, Blender, XAMPP
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hynengy&repo=CafeManagementSystem&show_icons=true&theme=radical" alt="Pinned Repo Card" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hynengy&repo=QuizExamSystem&show_icons=true&theme=radical" alt="Pinned Repo Card" width="45%">
-</p>
-<br>
+* **Tools & Environments:** Linux, Git & GitHub, Docker, VS Code, Figma, Blender, XAMPP
 
 ---
 
@@ -81,19 +74,12 @@ Here are some of my key repositories that highlight my practical application of 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynengy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hynengy&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-<br>
-
 ---
 
 ### 📫 Connect & Collaborate
 
 - 💼 **Seeking Opportunities:** I am actively looking for internships or junior software engineering roles.
-- 🎯 **Collaboration Ready:** I'm excited to collaborate on innovative software engineering projects and open-source contributions.
+- 🎯 **Collaboration Ready:** I's excited to collaborate on innovative software engineering projects and open-source contributions.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGsziYS21aU/giphy.gif" alt="Waving GIF" width="150"/>
